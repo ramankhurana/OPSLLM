@@ -13,4 +13,4 @@ Welcome to our learning resources guide for Large Language Models. Below, you'll
 
 - **[KAN](https://kindxiaoming.github.io/pykan/intro.html)**
 
-- **[TransformerFAN](https://arxiv.org/abs/2404.09173)**
+- **[TransformerFAM](https://arxiv.org/abs/2404.09173)**
