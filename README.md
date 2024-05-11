@@ -12,7 +12,8 @@ Welcome to our learning resources guide for Large Language Models. Below, you'll
 - **[Building a Chatbot with Llama and Google Colab (Free Tutorial)](https://www.youtube.com/watch?v=Z6sCl6abJj4)**: Watch this video to learn how to create a chatbot using the Llama model from Hugging Face, utilizing Google Colab for free.
 - **[Parameter Effifient Fine Tuning (PEFT)](https://arxiv.org/pdf/2312.12148)**: A review of PEFT methods for pre-trained language models.
 - **[PEFT github](https://github.com/huggingface/peft#)**: Hugging face PEFT github page.
-- **[Low-Rank Adaptation (LORA)](https://arxiv.org/pdf/2106.09685)**: Fine tune the model by adding additional parameters.  
+- **[Low-Rank Adaptation (LORA)](https://arxiv.org/pdf/2106.09685)**: Fine tune the model by adding additional parameters.
+- **[Stanford Lecture on n-gram](https://web.stanford.edu/~jurafsky/slp3/3.pdf)**: Lecture notes for n-gram language model. 
 
 ## New models which may revolutionize the world of LLM in couple of months/years. 
 
