@@ -13,7 +13,8 @@ Welcome to our learning resources guide for Large Language Models. Below, you'll
 - **[Parameter Effifient Fine Tuning (PEFT)](https://arxiv.org/pdf/2312.12148)**: A review of PEFT methods for pre-trained language models.
 - **[PEFT github](https://github.com/huggingface/peft#)**: Hugging face PEFT github page.
 - **[Low-Rank Adaptation (LORA)](https://arxiv.org/pdf/2106.09685)**: Fine tune the model by adding additional parameters.
-- **[Stanford Lecture on n-gram](https://web.stanford.edu/~jurafsky/slp3/3.pdf)**: Lecture notes for n-gram language model. 
+- **[Stanford book chapter on n-gram](https://web.stanford.edu/~jurafsky/slp3/3.pdf)**: Lecture notes for n-gram language model.
+- **[Full book on speech and NLP](https://web.stanford.edu/~jurafsky/slp3/ed3bookfeb3_2024.pdf)**
 
 ## New models which may revolutionize the world of LLM in couple of months/years. 
 
