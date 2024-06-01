@@ -15,7 +15,7 @@ Welcome to our learning resources guide for Large Language Models. Below, you'll
 - **[Low-Rank Adaptation (LORA)](https://arxiv.org/pdf/2106.09685)**: Fine tune the model by adding additional parameters.
 - **[Stanford book chapter on n-gram](https://web.stanford.edu/~jurafsky/slp3/3.pdf)**: Lecture notes for n-gram language model.
 - **[Full book on speech and NLP](https://web.stanford.edu/~jurafsky/slp3/ed3bookfeb3_2024.pdf)**
-
+- **[Transformer to LLM Harvard Guide](https://scholar.harvard.edu/binxuw/classes/machine-learning-scratch/materials/transformers)**
 ## New models which may revolutionize the world of LLM in couple of months/years. 
 
 - **[KAN](https://kindxiaoming.github.io/pykan/intro.html)**
